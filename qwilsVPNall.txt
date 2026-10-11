@@ -1,5 +1,5 @@
-#announce:нажми на кнопку посередине или молнию чтобы проверить соеденение меньше ms - лучше | n/a если ВПН плохо работает
-3 кнопку или обновить.
+#announce:нажми на кнопку посередине или молнию чтобы проверить соеденение меньше ms - лучше | n/a если ВПН плохо работае
+
 #profile-title: base64:SGFwcCxWMlJheSAtIEJMQUNLIExURQ==
 
 #profile-description: base64:0LTQu9GPINGC0L7Qs9C+INGH0YLQvtCx0Ysg0L/QvtGB0LzQvtGC0YDQtdGC0Ywg0YHQutC+0YDQvtGB0YLRjCDRgdC10YDQstC10YDQsCDQutC90L7Qv9C60YMg0L/QvtGB0LzQdNC10LTQuNC90LUg0YfQtdC8INC90LjQttC1INC/0LjQvdCzINGC0LXQvCDQu9GD0YfRtiQtINC10YHQu9C4INC90LjRh9C10LPQviDQvdC1INC90LDRhdC+0LTQuNGCINC4INCy0LXQt9C00LUg0L/QuNGI0LXRgiDQvdCv0LQg0YLQviDQvdCw0LbQvNC4IDMg0QutC90L7Qv9C60YMg0LLRgdC1INC+0LHQvdC+0LLQuNGC0YHRjw==
