@@ -1,7 +1,7 @@
 #announce:нажми на кнопку посередине или молнию чтобы проверить соеденение меньше ms - лучше | n/a если ВПН плохо работает
 #profile-title:Happ,V2Ray - WHITE LTE
 
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN%20t.me%2Frjsxrd
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#Qwils 
 vless://ef8c7169-87fc-49ad-be91-1f3984ab446d@mog.keyblack.site:8444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=DQGwrxOgoiyBDrbdFUofP88FGtxHDA2duzNXKkyxaig&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD_101422011%20t.me%2Frjsxrd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&headers=%7B%0A%20%20%22Host%22%3A%20%22snip.edgeoneai.cc.cd%22%0A%7D#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20t.me%2Frjsxrd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&headers=%7B%0A%20%20%22Host%22%3A%20%22snip.edgeoneai.cc.cd%22%0A%7D#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_59%20t.me%2Frjsxrd
