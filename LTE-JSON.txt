@@ -1,6 +1,4 @@
-#announce:нажми на кнопку посередине или молнию чтобы проверить соеденение меньше ms - лучше | n/a если ВПН плохо работает
 
-#profile-title: Happ,V2Ray - LTE-JSON
 {
   "burstObservatory": {
     "pingConfig": {
