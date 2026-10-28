@@ -28,7 +28,8 @@ vless://f439e4fe-139b-4882-ad8b-a16176d09c88@78.153.136.15:443?security=reality&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-152
 vless://f439e4fe-139b-4882-ad8b-a16176d09c88@78.153.136.15:443?security=reality&type=tcp&sni=eu53.cdn77.icu&host=eu53.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=firefox#%F0%9F%8C%90%20qwils%20LTE_7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@192.6.161.16:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-153
-
+vless://f439e4fe-139b-4882-ad8b-a16176d09c88@78.153.136.15:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu53.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%8C%90%20qwils%20LTE_1
+vless://f439e4fe-139b-4882-ad8b-a16176d09c88@81.222.148.104:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu53.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%8C%90%20qwils%20LTE_2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.17.6.42:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-154
 
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@179.255.99.95:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-155
