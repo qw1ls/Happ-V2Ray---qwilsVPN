@@ -32,65 +32,6 @@ vless://f439e4fe-139b-4882-ad8b-a16176d09c88@78.153.136.15:443?security=reality&
 vless://f439e4fe-139b-4882-ad8b-a16176d09c88@81.222.148.104:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu53.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%8C%90%20qwils%20LTE_2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.17.6.42:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-154
 
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@179.255.99.95:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-155
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@179.253.247.47:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-156
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.21.197.32:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-157
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.12.52.153:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-158
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@66.42.97.131:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-159
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-160
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@69.8.133.6:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-161
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@144.225.246.243:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-163
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.68.179:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchromefp%3Dchrome&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-164
-
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@136.234.9.12:27591?encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&fp=firefox#🇫🇷 ⚡qwils LTE-165
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-166
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.80:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-167
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-168
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.238.79.164:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2#🇫🇷 ⚡qwils LTE-169
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-171
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@168.144.128.4:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-172
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-173
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@94.183.184.239:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=http%2F1.1&fp=chrome#🇫🇷 ⚡qwils LTE-174
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@131.143.180.190:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-175
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.172.75.10:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#🇫🇷 ⚡qwils LTE-176
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.238.78.167:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-177
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.84.236.69:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-178
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@212.135.212.211:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchromefp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-179
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.88.33.135:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-180
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.84.244.9:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=fp%3Dunsafe&sni=snip.edgeoneai.cc.cd#🇫🇷 ⚡qwils LTE-181
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.235.248.133:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-182
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.88.35.242:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#🇫🇷 ⚡qwils LTE-183
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@72.60.235.49:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchromefp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-184
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.23.93.27:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-185
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.84.244.9:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-186
 
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.88.194.74:2087?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#🇫🇷 ⚡qwils LTE-187
 
