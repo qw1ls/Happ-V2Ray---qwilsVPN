@@ -5,7 +5,7 @@
 
 | СТАТУС | КОЛ-ВО СЕРВЕРОВ | ЧТО ВНУТРИ | ССЫЛКА |
 | :--- | :---: | :---: | ---: |
-| 🟠 средне | 150+ | VLESS+TLS,REALITY / SS+TCP 🏴| https://qw1ls.github.io/Happ-V2Ray---qwilsVPN/qwilsVPNall.txt
+| 🟢 неплохо | 150+ | VLESS+TLS,REALITY / SS+TCP 🏴| https://qw1ls.github.io/Happ-V2Ray---qwilsVPN/qwilsVPNall.txt
 | 🟠 средне | 99+ | VLESS+TLS,REALITY / SS+TCP 🏳️, 🏴|https://qw1ls.github.io/Happ-V2Ray---qwilsVPN/qwilsVpnWHITE/QwilsVpnWHITE.txt
 | 🟠 средне | 90+ | VLESS+TLS,REALITY / SS+TCP 🏴|https://qw1ls.github.io/Happ-V2Ray---qwilsVPN/LTE.txt
 
